@@ -1,0 +1,5 @@
+c:\users\sefarov\documents\visual studio 2013\Projects\SampleRecognition\SampleRecognition\bin\Debug\SampleRecognition.exe.config
+c:\users\sefarov\documents\visual studio 2013\Projects\SampleRecognition\SampleRecognition\bin\Debug\SampleRecognition.exe
+c:\users\sefarov\documents\visual studio 2013\Projects\SampleRecognition\SampleRecognition\bin\Debug\SampleRecognition.pdb
+c:\users\sefarov\documents\visual studio 2013\Projects\SampleRecognition\SampleRecognition\obj\Debug\SampleRecognition.exe
+c:\users\sefarov\documents\visual studio 2013\Projects\SampleRecognition\SampleRecognition\obj\Debug\SampleRecognition.pdb
